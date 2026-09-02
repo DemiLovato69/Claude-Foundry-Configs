@@ -1,0 +1,18 @@
+# Claude Code runtime state. Keep authored settings, agents, and skills tracked.
+backups/
+cache/
+debug/
+downloads/
+file-history/
+history.jsonl
+ide/
+paste-cache/
+plans/
+plugins/
+projects/
+session-env/
+sessions/
+shell-snapshots/
+statsig/
+todos/
+settings.local.json
