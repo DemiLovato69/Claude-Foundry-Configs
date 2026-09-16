@@ -34,7 +34,7 @@ Zsh:
 
 ```sh
 export CLAUDE_API_KEY="your-key"
-export ANTHROPIC_BASE_URL="https://your-foundry-anthropic-proxy"
+export ANTHROPIC_BASE_URL="https://your-foundry-host/api/v2/llm/proxy/anthropic"
 ```
 
 Put these exports in a secure shell configuration or secret manager if they must
